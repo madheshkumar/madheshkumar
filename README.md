@@ -81,9 +81,3 @@
 </div>
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madheshkumar&show_icons=true&locale=en&layout=compact" alt="madheshkumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madheshkumar&show_icons=true&locale=en" alt="madheshkumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madheshkumar&" alt="madheshkumar" /></p>
