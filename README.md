@@ -11,11 +11,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o0XnApVxba5TzvC8_XXxhkwMFApSs6wM/edit](https://docs.google.com/document/d/1o0XnApVxba5TzvC8_XXxhkwMFApSs6wM/edit)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/madhesh-kumar-s-a619b7214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhesh kumar" height="30" width="40" /></a>
-</p>
-
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
