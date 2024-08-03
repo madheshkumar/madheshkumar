@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full-stack web development**
 
-- 👨‍💻 All of my projects are available at (https://madheshkumar.github.io/)
+- 👨‍💻 All of my projects are available at (https://github.com/madheshkumar?tab=repositories)
 
 - 📫 How to reach me **madheshkumars03gmail.com**
 
